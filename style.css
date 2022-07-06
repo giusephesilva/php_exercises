@@ -1,0 +1,21 @@
+p{
+    background-color: aqua;
+    color: blue;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+}
+
+.base{
+
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: brown;
+
+
+}
+
