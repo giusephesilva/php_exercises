@@ -35,8 +35,16 @@ function idademais20(){
 
     <div class="formulario">
         <form method= "post" action="dados.php">
-            valor:<input type="text" name="v">
-            <input type="submit" value="calcular raiz quadrada">
+            Nome:<input type="text" name="nome"/> </br>
+            idade:<input type="number" name="idade"></br>
+            <fieldset><legend>Sexo</legend>
+                <input type="radio" name="sexo" id="masc" value="Homem">
+                <label for="masc">Masculino</label></br>
+                <input type="radio" name="sexo" id="fem" value="Mulher">
+                <label for="fem">Feminino</label></br>
+            </fieldset>
+            <input type="submit" value="Enviar"/>
+
         </form>
     </div>
 </body>
