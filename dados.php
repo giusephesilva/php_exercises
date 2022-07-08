@@ -5,6 +5,7 @@
     $sexo = $_POST["sexo"];
 
     echo "Seu nome é $nome, sua idade é $idade e você é $sexo";
+    
 ?>
 
 <!DOCTYPE html>
@@ -14,6 +15,18 @@
     <title>Document</title>
 </head>
 <body>
+</br>
+    <?php
+        if ($idade>=18) {
+            echo "Maior de idade";
+        }
+        else {
+            echo "Menor de idade";
+        }
+
+    ?>
+
+
 </br>
     <a href="index.php"> 
        <button>voltar</button> 

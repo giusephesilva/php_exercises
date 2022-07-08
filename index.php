@@ -16,6 +16,7 @@ function idademais20(){
 /*if ($idade>10&&$idade<2) {
     
 }*/
+
 ?>
 
 
@@ -47,6 +48,14 @@ function idademais20(){
 
         </form>
     </div>
+
+
+    <div>
+        <a href="operacoes.php">
+            <button>Operações matemáticas</button>
+        </a>
+    </div>
+
 </body>
 </html>
 
