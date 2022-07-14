@@ -56,6 +56,26 @@ function idademais20(){
         </a>
     </div>
 
+    <div>
+        <a href="while.php">
+            <button> Estrutura de repetição while</button>
+        </a>
+    </div>
+
+    <div>
+        <a href="dowhile.php">
+            <button> Estrutura de repetição do while</button>
+        </a>
+    </div>
+
+    <div>
+        <a href="tabuada.php">
+            <button> Tabuada utilizando estruturas de repetição</button>
+        </a>
+    </div>
+
+
+
 </body>
 </html>
 
