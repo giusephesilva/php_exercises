@@ -17,7 +17,7 @@
     ?>
     </select>
     </br>
-    <input type="submit" value='Enviar'>
+    <input type="submit" value='Enviar'> 
     </form>
 </body>
 </html>

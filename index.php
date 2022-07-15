@@ -74,6 +74,12 @@ function idademais20(){
         </a>
     </div>
 
+    <div>
+        <a href="for.php">
+            <button>  Estrutura de repetição FOR</button>
+        </a>
+    </div>
+
 
 
 </body>
