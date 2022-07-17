@@ -80,6 +80,13 @@ function idademais20(){
         </a>
     </div>
 
+    <div>
+        <a href="numprimo.php">
+            <button>  Números primos</button>
+        </a>
+    </div>
+
+
 
 
 </body>

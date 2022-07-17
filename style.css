@@ -1,6 +1,5 @@
 p{
-    background-color: aqua;
-    color: blue;
+    
     padding-left: 2px;
     padding-right: 2px;
     padding-top: 2px;
@@ -19,3 +18,12 @@ p{
 
 }
 
+.primo > h2{
+    color: green;
+    
+}
+
+.naoprimo > h2{
+    color:red;
+    
+}
