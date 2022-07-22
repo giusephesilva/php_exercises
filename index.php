@@ -86,6 +86,36 @@ function idademais20(){
         </a>
     </div>
 
+    <div>
+        <a href="procedimento.php">
+            <button>  procedimento</button>
+        </a>
+    </div>
+
+    <div>
+        <a href="funcao.php">
+            <button> função</button>
+        </a>
+    </div>
+
+    <div>
+        <a href="param_dinamicos.php">
+            <button> Função com parâmetros dinâmicos</button>
+        </a>
+    </div>
+
+    <div>
+        <a href="param_referencia">
+            <button> Valor por referência </button>
+        </a>
+    </div>
+
+    <div>
+        <a href="funcoes_externo">
+            <button> Funcoes externas</button>
+        </a>
+    </div>
+
 
 
 
