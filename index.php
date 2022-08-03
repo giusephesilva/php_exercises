@@ -116,6 +116,12 @@ function idademais20(){
         </a>
     </div>
 
+    <div>
+        <a href="funcoes_string">
+            <button> Funcoes Nativas para String</button>
+        </a>
+    </div>
+
 
 
 
