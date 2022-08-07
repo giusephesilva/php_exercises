@@ -105,22 +105,29 @@ function idademais20(){
     </div>
 
     <div>
-        <a href="param_referencia">
+        <a href="param_referencia.php">
             <button> Valor por referência </button>
         </a>
     </div>
 
     <div>
-        <a href="funcoes_externo">
+        <a href="funcoes_externo.php">
             <button> Funcoes externas</button>
         </a>
     </div>
 
     <div>
-        <a href="funcoes_string">
+        <a href="funcoes_string.php">
             <button> Funcoes Nativas para String</button>
         </a>
     </div>
+
+    <div>
+        <a href="vetor_matriz.php">
+            <button> Vetor e Matriz</button>
+        </a>
+    </div>
+
 
 
 
