@@ -66,6 +66,107 @@ $g[2][1]=11;
 
 print_r($g);
 
+?>
+
+</br>
+</br>
+</br>
+</br>
+<!--Tratativa de Array-->
+
+<!--Tag Pre-->
+<pre>
+<?php
+
+$v = array("A","J","M","X","K");
+print_r($v);
+
+
+?>
+</pre>
+</br>
+</br>
+<?php
+var_dump($v);
+echo "</br>";
+
+//count
+echo "O vetor possui ".count($v)." elementos"; 
+
+echo "</br>";
+//array_push
+array_push($v,7);
+var_dump($v);
+echo "</br>";
+
+//array_pop
+
+array_pop($v);
+var_dump($v);
+echo "</br>";
+
+
+//array_unshift
+
+array_unshift($v,9);
+var_dump($v);
+echo "</br>";
+
+//array_shift
+
+array_shift($v);
+var_dump($v);
+echo "</br>";
+
+//sort
+
+$a=array(5,9,1,4);
+sort($a);
+var_dump($a);
+echo "</br>";
+
+//rsort
+$a=array(5,9,1,4);
+rsort($a);
+var_dump($a);
+echo "</br>";
+
+//asort
+$a=array(5,9,1,4);
+asort($a);
+var_dump($a);
+echo "</br>";
+
+
+//arsort
+$a=array(5,9,1,4);
+arsort($a);
+var_dump($a);
+echo "</br>";
+
+
+//ksort
+$m[3]="C";
+$m[2]="E";
+$m[0]="H";
+$m[1]="B";
+
+var_dump($m);
+ksort($m);
+echo "</br>";
+var_dump($m);
+
+echo "</br>";
+
+
+//krsort
+
+$m = array(3=>"C",2=>"E",0=>"H",1=>"B");
+krsort($m);
+var_dump($m);
+
+
+
 
 ?>
 
